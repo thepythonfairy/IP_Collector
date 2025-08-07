@@ -15,4 +15,4 @@ Go to the files tab and click on flask_app.py
 Under Directories, click mysite/ and that should get you started!
 
 Remember:
-Once you finish coding, go to Discord and create a webhook. This is how you will get notified when someone clicks the IP_Collector link and it will also be where you can see the user's IP Address, Date, Location, and Postal Code
+Once you finish coding, go to Discord and create a webhook. This is how you will get notified when someone clicks the IP_Collector link and it will also be where you can see the user's IP Address, Date, Location, and Postal Code.
