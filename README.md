@@ -5,13 +5,13 @@ This project is intended for educational and ethical testing purposes only. Do n
 Important Notes:
 You will need to utilize a cloud-based platform such as pythonanywhere.com to host your code. Otherwise, you will need to host the program locally (in your router) which can cause some vulnerability issues.
 
-First Step:
+- First Step:
 Go to pythonanywhere.come and create an account. 
 
-Second Step:
+- Second Step:
 Go to the files tab and click on flask_app.py
 
-Third Step:
+- Third Step:
 Under Directories, click mysite/ and that should get you started!
 
 Remember:
